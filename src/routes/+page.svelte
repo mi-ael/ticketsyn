@@ -1,7 +1,7 @@
 <h1>Welcome to SvelteKit</h1>
 <a
   href="https://svelte.dev/docs/kit"
-  class="btn btn-primary btn-lg border-4 border-primary bg-blue-300"
+  class="btn btn-primary btn-lg border-4 border-primary bg-blue-500"
   aria-label="SvelteKit Documentation">Documentation</a
 >
 <p>
